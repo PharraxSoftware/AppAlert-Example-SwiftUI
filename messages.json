@@ -2,8 +2,8 @@
   {
     "id": 1,
     "bundleId": "com.pharraxsoftware.AppAlertExample",
-    "title", "App Alert",
-    "text", "Warning: There is a bug in the application and I am working on it...",
+    "title": "App Alert",
+    "text": "Warning: There is a bug in the application and I am working on it...",
     "confirmLabel": "OK"
   }
 ]
