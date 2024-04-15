@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "buildID": "com.pharraxsoftware.AppAlertExample",
+    "bundleId": "com.pharraxsoftware.AppAlertExample",
     "title", "App Alert",
     "text", "Warning: There is a bug in the application and I am working on it...",
     "confirmLabel": "OK"
